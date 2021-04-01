@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb6a4cf9-ec9f-4127-800c-c202864d887c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/BootCampFinalFall2020.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/mac/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/amazon/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letskodeit/HelpClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/letskodeit/LetkodeitExcecute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/.idea/Demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mostafa_WebAutomation/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mostafa_WebAutomation/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mostafa_WebAutomation/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mostafa_WebAutomation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mostafa_WebAutomation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mostafa_WebAutomation/Amazon/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mostafa_WebAutomation/Amazon/src/main/java/homepage/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mostafa_WebAutomation/Amazon/src/main/java/homepage/HomePageWebElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mostafa_WebAutomation/Amazon/src/test/java/homepagetest/HomePageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mostafa_WebAutomation/CNN/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mostafa_WebAutomation/Cigna/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mostafa_WebAutomation/Generic/Drivers/mac/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mostafa_WebAutomation/Generic/Drivers/mac/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mostafa_WebAutomation/Generic/Drivers/windows/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mostafa_WebAutomation/Generic/Drivers/windows/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mostafa_WebAutomation/Generic/Drivers/windows/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mostafa_WebAutomation/Generic/Drivers/windows/msedgedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mostafa_WebAutomation/Generic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mostafa_WebAutomation/Mostafa_WebAutomation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mostafa_WebAutomation/TDBank/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mostafa_WebAutomation/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/BBC/Extent-Report/ExtentReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/BBC/Screenshots/homePgeTest (210325171550-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/BBC/Screenshots/homePgeTest (210325171817-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/BBC/Screenshots/homePgeTest (210325171923-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/BBC/Screenshots/homePgeTest (210325172113-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/BBC/Screenshots/homePgeTest (210325172238-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/BBC/Screenshots/homePgeTest (210325172622-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/BBC/Screenshots/homePgeTest (210325172851-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/BBC/Screenshots/homePgeTest (210325173825-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/BBC/Screenshots/homePgeTest (210325174739-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/BBC/Screenshots/homePgeTest (210325175009-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/BBC/Screenshots/homePgeTest (210325175419-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/BBC/Screenshots/homePgeTest (210325175619-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/BBC/Screenshots/homePgeTest (210325180333-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/BBC/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/BBC/src/main/java/bbc/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/BBC/src/main/java/bbc/pages/HomePageWebElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/BBC/src/test/java/homepagetest/HomePageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/BBC/src/test/resources/bbcTestRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/Geico/Extent-Report/ExtentReport.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/Geico/Screenshots/validateStartQoute (210325194218-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/Geico/Screenshots/validateStartQoute (210325195727-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/Geico/Screenshots/validateStartQoute (210325202905-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/Geico/Screenshots/validateStartQoute (210325203421-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/Geico/Screenshots/validateStartQoute (210325203719-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/Geico/Screenshots/validateStartQoute (210325204751-0400).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/Geico/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/Geico/src/main/java/homepage/GeicoHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/Geico/src/test/java/testhomepage/GeicoTestPages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/Geico/src/test/resources/geicoTestRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/Generic/BrowserDriver/mac/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/Generic/BrowserDriver/mac/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/Generic/BrowserDriver/windows/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/Generic/BrowserDriver/windows/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/Generic/BrowserDriver/windows/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/Generic/BrowserDriver/windows/msedgedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/Generic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/Generic/src/main/java/common/WebAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/Generic/src/main/java/databases/ConnectToMongoDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/Generic/src/main/java/databases/ConnectToSqlDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/Generic/src/main/java/databases/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/Generic/src/main/java/databases/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/Generic/src/main/java/reporting/ApplicationLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/Generic/src/main/java/reporting/ExtentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/Generic/src/main/java/reporting/ExtentTestManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/Generic/src/main/java/reporting/TestLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/Generic/src/main/java/utilities/DataReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/Generic/src/main/java/utilities/ReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/Generic/src/main/java/utilities/WriteExcelFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/Generic/src/main/secret.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDDFrameWorkPractice/TDDFrameWorkPractice.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1pRLr1a9laS6a02X0o0hosWH6Vh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/driver/windows" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mamun\IdeaProjects\BootCampFinalFall2020\driver\windows" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mamun\eclipse-workspace\BootCampFinalFall2020" />
+      <recent name="C:\Users\mamun\eclipse-workspace\BootCampFinalFall2020\.idea" />
+    </key>
+    <key name="MoveInnerDialog.RECENTS_KEY">
+      <recent name="letskodeit" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.LetkodeitExcecute">
+    <configuration name="Chasepage.CompareCrCards" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BootCampFinalFall2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chasebank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="chasebank" />
+      <option name="MAIN_CLASS_NAME" value="chasebank.Chasepage" />
+      <option name="METHOD_NAME" value="CompareCrCards" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LetkodeitExcecute" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BootCampFinalFall2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="letskodeit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="letskodeit" />
+      <option name="MAIN_CLASS_NAME" value="letskodeit.LetkodeitExcecute" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LetkodeitExcecute.Browser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BootCampFinalFall2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="letskodeit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="letskodeit" />
+      <option name="MAIN_CLASS_NAME" value="letskodeit.LetkodeitExcecute" />
+      <option name="METHOD_NAME" value="Browser" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LetkodeitExcecute.MultiSelect" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BootCampFinalFall2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="letskodeit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="letskodeit" />
+      <option name="MAIN_CLASS_NAME" value="letskodeit.LetkodeitExcecute" />
+      <option name="METHOD_NAME" value="MultiSelect" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LetkodeitExcecute.SelectDropDown" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BootCampFinalFall2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="letskodeit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="letskodeit" />
+      <option name="MAIN_CLASS_NAME" value="letskodeit.LetkodeitExcecute" />
+      <option name="METHOD_NAME" value="SelectDropDown" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LetkodeitExcecute" />
+        <item itemvalue="TestNG.LetkodeitExcecute.MultiSelect" />
+        <item itemvalue="TestNG.LetkodeitExcecute.SelectDropDown" />
+        <item itemvalue="TestNG.LetkodeitExcecute.Browser" />
+        <item itemvalue="TestNG.Chasepage.CompareCrCards" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb6a4cf9-ec9f-4127-800c-c202864d887c" name="Default Changelist" comment="" />
+      <created>1615141152832</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615141152832</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
